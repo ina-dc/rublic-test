@@ -1,2 +1,2 @@
 # rublic-test
-til bruk for TestQuality
+til bruk for TestQuality og testmo
